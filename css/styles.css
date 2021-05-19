@@ -122,6 +122,9 @@ padding-bottom:3%;
 }
 
 /* footer */
+#footer{
+padding: 100px 15% 20%;
+}
 #f-para{
     color:grey;
 }
