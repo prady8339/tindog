@@ -34,7 +34,7 @@ body{
 .navbar-brand{
     font-family: 'Ubuntu', sans-serif;
     font-size:2.5rem;
-    font-weight: bold;
+    font-weight: bolder;
 }
 .navbar{
     padding:0 0 4.5rem;
@@ -44,7 +44,8 @@ padding:0% 18px;
 }
 .nav-link{
     font-size:1.2rem;
-    font-family:'Montserrat-light'
+    font-family:'Montserrat-light';
+    font-weight:bold;
 }
 
 /* download buttons */
